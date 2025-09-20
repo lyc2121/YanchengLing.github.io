@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a PhD candidate in **Data Science and Artificial Intelligence** at **Monash University**, with a research focus on **Large Language Models (LLMs)**, **Reinforcement Learning**, and **Urban Transportation Analysis and Optimization**. My work lies at the intersection of **artificial intelligence** and **transportation engineering**, aiming to improve the efficiency and sustainability of public transport systems.
+I am a PhD candidate in **Data Science and Artificial Intelligence** at **Monash University**, with a research focus on **Large Language Models (LLMs)**, **Reinforcement Learning**, and **Urban Transportation Analysis and Optimization**. My work lies at the intersection of **artificial intelligence** and **transportation engineering**, aiming to improve the efficiency and sustainability of transport systems.
 
 Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of Technology** (2025–2026).
 
@@ -18,7 +18,7 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 ## Education
 
 - **KTH Royal Institute of Technology**  
-  Visiting PhD Student, Transportation Systems (Jul 2025 – Jun 2026)
+  Visiting PhD Student (2025-2026)
 
 - **Monash University**  
   PhD in Data Science and AI (Jul 2022 – Jun 2026)  
@@ -35,6 +35,14 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 - Reinforcement Learning  
 - Urban Transportation Analysis and Optimization
 - Public Transport
+
+---
+
+## Experience
+
+- **Senior AI Engineer**  
+  Bosch (Full-time), Sep 2021 – Jul 2022  
+  AI-based parameter tuning for vehicle application and simulation calibration.
 
 ---
 
