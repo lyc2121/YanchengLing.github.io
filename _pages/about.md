@@ -29,15 +29,23 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 
 ---
 
-## Research Interests
+## Selected Publications
 
-- Large Language Models (LLMs)  
-- Reinforcement Learning  
-- Urban Transportation Analysis and Optimization
-- Public Transport
+### Agentic Large Language Models for day-to-day route choices
+Wang, L., et al. (2025), *Transportation Research Part C*  
+
+- [📄 Paper (Publisher Link)](https://www.sciencedirect.com/science/article/pii/S0968090X25003110)  
+- [💻 Code (GitHub)](https://github.com/georgewanglz2019/LLMTraveler)  
+- 🎥 Demo Video:  
+  <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+    <iframe src="https://private-user-images.githubusercontent.com/46119396/398356311-5413ad77-d6ec-4e94-97c3-5560fbd448ae.mp4" 
+            frameborder="0" 
+            allowfullscreen 
+            style="position:absolute;top:0;left:0;width:100%;height:100%;">
+    </iframe>
+  </div>
 
 For a full and up-to-date list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=sM-HlFAAAAAJ&view_op=list_works&sortby=pubdate).
-
 ---
 
 ## Experience
@@ -60,7 +68,14 @@ For a full and up-to-date list of my publications, please visit my [Google Schol
     - *ENG5305 Transport Demand Modelling*: conducted practice classes on four-step travel demand modeling with Python.  
     - *ENG5001 Advanced Engineering Data Analysis*: led practice classes on taxi demand prediction using large-scale New York taxi datasets in Python.  
 
+## Research Interests
 
+- Large Language Models (LLMs)  
+- Reinforcement Learning  
+- Urban Transportation Analysis and Optimization
+- Public Transport
+
+---
 
 ---
 
