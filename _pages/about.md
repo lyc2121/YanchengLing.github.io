@@ -32,29 +32,25 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 ## Selected Publications
 
 ### Agentic Large Language Models for Day-to-Day Route Choices  
-**Leizhen Wang**, et al. (2025), *Transportation Research Part C*
+**L Wang**, P Duan, Z He, C Lyu, X Chen, N Zheng, L Yao, Z Ma. (2025), *Transportation Research Part C*  
+[📄 Paper](https://www.sciencedirect.com/science/article/pii/S0968090X25003110) | [💻 Code](https://github.com/georgewanglz2019/LLMTraveler)
 
-- 📄 [Paper](https://www.sciencedirect.com/science/article/pii/S0968090X25003110)
-- 💻 [Code](https://github.com/georgewanglz2019/LLMTraveler)
-- 🎥 Demo Video:
+### Scalable and Reliable Multi-agent Reinforcement Learning for Traffic Assignment  
+**L Wang**, P Duan, C Lyu, Z Wang, Z He, N Zheng, Z Ma. (2025), *Communications in Transportation Research*  
+[📄 Paper](https://www.arxiv.org/abs/2506.17029) | [💻 Code](https://github.com/georgewanglz2019/MARL4TA)
 
-<video width="100%" controls playsinline>
-  <source src="LLMTraveler.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
+### EvolveSignal: A Large Language Model Powered Coding Agent for Discovering Traffic Signal Control Algorithms
+**L Wang**, P Duan, H Wang, Y Wang, J Xu, N Zheng, Z Ma. (2025), *Transportation Research Part C*  
+[📄 Paper](https://arxiv.org/abs/2509.03335)
 
-<details><summary>📑 BibTeX</summary>
+### Data-driven analysis and modeling of individual longitudinal behavior response to fare incentives in public transport
+**L Wang**, X Chen, Z Ma, P Zhang, B Mo, P Duan. (2024), *Transportation*  
+[📄 Paper](https://link.springer.com/article/10.1007/s11116-023-10419-8)
 
-```bibtex
-@article{Wang2025LLMTraveler,
-  title   = {Agentic Large Language Models for day-to-day route choices},
-  author  = {Wang, Leizhen and Duan, Peibo and He, Zhengbing and Lyu, Cheng and Chen, Xin and Zheng, Nan and Yao, Li and Ma, Zhenliang},
-  journal = {Transportation Research Part C: Emerging Technologies},
-  volume  = {180},
-  pages   = {105307},
-  year    = {2025},
-  doi     = {10.1016/j.trc.2025.105307}
-}
+### Human‐centric multimodal deep (HMD) traffic signal control 
+**L Wang**, Z Ma, C Dong, H Wang. (2025), *IET Intelligent Transport Systems*  
+[📄 Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12300)
+
 
 
 For a full and up-to-date list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=sM-HlFAAAAAJ&view_op=list_works&sortby=pubdate).
