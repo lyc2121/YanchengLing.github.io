@@ -24,9 +24,6 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
   PhD in Data Science and AI (Jul 2022 – Jun 2026)  
   *Research areas: Large Language Models, Reinforcement Learning, Urban Transportation, Public Transport*
 
-- **Monash University**  
-  Master’s degree in Transportation Engineering (Sep 2018 – Jun 2021)
-
 - **Southeast University**  
   Master’s degree in Transportation Engineering (Sep 2018 – Jun 2021)
 
@@ -36,8 +33,8 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 
 - Large Language Models (LLMs)  
 - Reinforcement Learning  
-- Urban Transportation Systems  
-- Public Transport Planning and Optimization  
+- Urban Transportation Analysis and Optimization
+- Public Transport
 
 ---
 
