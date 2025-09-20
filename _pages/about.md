@@ -29,7 +29,7 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 
 ---
 
-## Selected Publications
+## Selected Papers
 
 ### Agentic Large Language Models for Day-to-Day Route Choices  
 **L Wang**, P Duan, Z He, C Lyu, X Chen, N Zheng, L Yao, Z Ma. (2025), *Transportation Research Part C*  
@@ -40,7 +40,7 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 [📄 Paper](https://www.arxiv.org/abs/2506.17029) | [💻 Code](https://github.com/georgewanglz2019/MARL4TA)
 
 ### EvolveSignal: A Large Language Model Powered Coding Agent for Discovering Traffic Signal Control Algorithms
-**L Wang**, P Duan, H Wang, Y Wang, J Xu, N Zheng, Z Ma. (2025), *Transportation Research Part C*  
+**L Wang**, P Duan, H Wang, Y Wang, J Xu, N Zheng, Z Ma. (2025), *Under Review*  
 [📄 Paper](https://arxiv.org/abs/2509.03335)
 
 ### Data-driven analysis and modeling of individual longitudinal behavior response to fare incentives in public transport
