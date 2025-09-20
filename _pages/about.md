@@ -48,7 +48,7 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 [📄 Paper](https://link.springer.com/article/10.1007/s11116-023-10419-8)
 
 ### Human‐centric multimodal deep (HMD) traffic signal control 
-**L Wang**, Z Ma, C Dong, H Wang. (2025), *IET Intelligent Transport Systems*  
+**L Wang**, Z Ma, C Dong, H Wang. (2023), *IET Intelligent Transport Systems*  
 [📄 Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12300)
 
 
