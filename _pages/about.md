@@ -31,19 +31,31 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 
 ## Selected Publications
 
-### Agentic Large Language Models for day-to-day route choices
-Wang, L., et al. (2025), *Transportation Research Part C*  
+### Agentic Large Language Models for Day-to-Day Route Choices  
+**Leizhen Wang**, et al. (2025), *Transportation Research Part C*
 
-- [📄 Paper (Publisher Link)](https://www.sciencedirect.com/science/article/pii/S0968090X25003110)  
-- [💻 Code (GitHub)](https://github.com/georgewanglz2019/LLMTraveler)  
-- 🎥 Demo Video:  
-  <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-    <iframe src="https://private-user-images.githubusercontent.com/46119396/398356311-5413ad77-d6ec-4e94-97c3-5560fbd448ae.mp4" 
-            frameborder="0" 
-            allowfullscreen 
-            style="position:absolute;top:0;left:0;width:100%;height:100%;">
-    </iframe>
-  </div>
+- 📄 [Paper](https://www.sciencedirect.com/science/article/pii/S0968090X25003110)
+- 💻 [Code](https://github.com/georgewanglz2019/LLMTraveler)
+- 🎥 Demo Video:
+
+<video width="100%" controls playsinline>
+  <source src="LLMTraveler.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+<details><summary>📑 BibTeX</summary>
+
+```bibtex
+@article{Wang2025LLMTraveler,
+  title   = {Agentic Large Language Models for day-to-day route choices},
+  author  = {Wang, Leizhen and Duan, Peibo and He, Zhengbing and Lyu, Cheng and Chen, Xin and Zheng, Nan and Yao, Li and Ma, Zhenliang},
+  journal = {Transportation Research Part C: Emerging Technologies},
+  volume  = {180},
+  pages   = {105307},
+  year    = {2025},
+  doi     = {10.1016/j.trc.2025.105307}
+}
+
 
 For a full and up-to-date list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=sM-HlFAAAAAJ&view_op=list_works&sortby=pubdate).
 ---
