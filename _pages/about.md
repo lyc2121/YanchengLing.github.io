@@ -21,11 +21,11 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
   Visiting PhD Student (2025-2026)
 
 - **Monash University**  
-  PhD in Data Science and AI (Jul 2022 – Jun 2026)  
+  PhD in Data Science and AI (2022–2026)  
   *Research areas: Large Language Models, Reinforcement Learning, Urban Transportation, Public Transport*
 
 - **Southeast University**  
-  Master’s degree in Transportation Engineering (Sep 2018 – Jun 2021)
+  Master’s degree in Transportation Engineering (2018–2021)
 
 ---
 
@@ -58,7 +58,7 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 ## Experience
 
 - **Senior AI Engineer**  
-  Bosch (Full-time), Sep 2021 – Jul 2022  
+  Bosch (Full-time), 2021–2022  
   AI-based parameter tuning for vehicle application and simulation calibration.
 
 - **Teaching Assistant**  
