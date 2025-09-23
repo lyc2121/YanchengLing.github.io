@@ -27,6 +27,9 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 - **Southeast University**  
   Master’s degree in Transportation Engineering (2018–2021)
 
+- **Shandong Jiaotong University**  
+  Bachelor’s degree in Transportation Engineering
+  
 ---
 
 ## Selected Papers
