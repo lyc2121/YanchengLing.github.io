@@ -77,7 +77,7 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
     - *ENG5005 Research Project*: supervised adaptive traffic signal control projects using deep reinforcement learning, mentored students on programming and writing.  
     - *ENG5305 Transport Demand Modelling*: conducted practice classes on four-step travel demand modeling with Python.  
     - *ENG5001 Advanced Engineering Data Analysis*: led practice classes on taxi demand prediction using large-scale New York taxi datasets in Python.
-    - 
+    
 ---
 
 ## Research Interests
