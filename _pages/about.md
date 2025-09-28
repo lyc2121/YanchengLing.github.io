@@ -87,8 +87,6 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 
 ---
 
----
-
 ## Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/leizhen-wang-0766a8250/)  
