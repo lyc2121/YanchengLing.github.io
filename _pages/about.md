@@ -35,7 +35,7 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 ## Selected Papers
 
 ### Agentic Large Language Models for Day-to-Day Route Choices  
-**L Wang**, P Duan, Z He, C Lyu, X Chen, N Zheng, L Yao, Z Ma. (2025), *Transportation Research Part C*  
+**L Wang**, P Duan, Z He, C Lyu, X Chen, N Zheng, L Yao, Z Ma. (2025), *Transportation Research Part C: Emerging Technologies*  
 [📄 Paper](https://www.sciencedirect.com/science/article/pii/S0968090X25003110) | [💻 Code](https://github.com/georgewanglz2019/LLMTraveler)
 
 ### Scalable and Reliable Multi-agent Reinforcement Learning for Traffic Assignment  
