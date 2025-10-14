@@ -46,6 +46,10 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 **L Wang**, P Duan, H Wang, Y Wang, J Xu, N Zheng, Z Ma. (2025), *Under Review*  
 [📄 Paper](https://arxiv.org/abs/2509.03335)
 
+### Reinforcement learning-based sequential route recommendation for system-optimal traffic assignment
+**L Wang**, P Duan, C Lyu, Z Ma. (2025), *Under Review*  
+[📄 Paper](https://arxiv.org/abs/2505.20889)
+
 ### Data-driven analysis and modeling of individual longitudinal behavior response to fare incentives in public transport
 **L Wang**, X Chen, Z Ma, P Zhang, B Mo, P Duan. (2024), *Transportation*  
 [📄 Paper](https://link.springer.com/article/10.1007/s11116-023-10419-8)
