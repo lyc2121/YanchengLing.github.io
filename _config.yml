@@ -138,11 +138,9 @@ og_image                 :
 og_description           :  
 social:
   type                   : Person
-  name                   : "Leizhen Wang"
+  name                   : "Yancheng Ling"
   links: 
-    - "https://scholar.google.com/citations?hl=en&user=sM-HlFAAAAAJ&view_op=list_works&sortby=pubdate"
-    - "https://github.com/georgewanglz2019"
-    - "https://www.linkedin.com/in/leizhen-wang-0766a8250/"
+    - "https://scholar.google.com/citations?user=eK6riUwAAAAJ&hl=zh-CN"
 
 # Analytics
 analytics:
