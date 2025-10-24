@@ -30,58 +30,57 @@ I am currently a Postdoctoral Researcher specializing in urban knowledge graphs 
 **Y Ling**,Z Ma, B Xie, Q Zhang, X Weng. (2023), *IEEE Transactions on Intelligent Transportation Systems*   
 [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10247099)
 
-### EvolveSignal: A Large Language Model Powered Coding Agent for Discovering Traffic Signal Control Algorithms
-**L Wang**, P Duan, H Wang, Y Wang, J Xu, N Zheng, Z Ma. (2025), *Under Review*  
-[📄 Paper](https://arxiv.org/abs/2509.03335)
+### LVLMPed-CoT: A Large Vision-Language Model with Chain-of-Thought Mechanism for Pedestrian Crossing Intention Prediction 
+**Y Ling**,Z Ma, ect. (2025), *Under Review*   
 
-### Data-driven analysis and modeling of individual longitudinal behavior response to fare incentives in public transport
-**L Wang**, X Chen, Z Ma, P Zhang, B Mo, P Duan. (2024), *Transportation*  
-[📄 Paper](https://link.springer.com/article/10.1007/s11116-023-10419-8)
-
-### Human‐centric multimodal deep (HMD) traffic signal control 
-**L Wang**, Z Ma, C Dong, H Wang. (2023), *IET Intelligent Transport Systems*  
-[📄 Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12300)
+### A review of knowledge graph construction using large language models in transportation: problems, methods, and challenges
+**Y Ling**,Z Ma, etc. (2025), *Under Review*  
 
 
-### For a full and up-to-date list of my publications: [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=sM-HlFAAAAAJ&view_op=list_works&sortby=pubdate).
+### A deep learning approach for robust traffic accident information extraction from online chinese news
+**Y Ling**, Z Ma, X Dong, X Weng. (2024), *IET Intelligent Transport Systems*  
+[📄 Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12493)
+
+### Bus driver deceleration behavior modeling at intersections using multi-source on-board sensor data
+**Y Ling**, Z Ma, Y Song, Q Zhang, X Weng, X Ma. (2025), *Journal of Public Transportation*  
+[📄 Paper](https://www.sciencedirect.com/science/article/pii/S1077291X25000086)
+
+### Efficient and Robust Driver Fatigue Detection Framework Based on the Visual Analysis of Eye States 
+**Y Ling** X Weng. (2023), *Promet - Traffic&Transportation*  
+[📄 Paper](https://hrcak.srce.hr/307625)
+
+### Driver eye location and state estimation based on a robust model and data augmentation 
+**Y Ling**  R Luo, X Dong, X Weng (2023), *IEEE Access*  
+[📄 Paper](https://ieeexplore.ieee.org/abstract/document/9417185)
+
+
+### For a full and up-to-date list of my publications: [Google Scholar profile](https://scholar.google.com/citations?user=eK6riUwAAAAJ&hl=en&oi=ao).
 ---
 
 ## Experience
 
-- **Senior AI Engineer**  
-  Bosch (Full-time), 2021–2022  
-  AI-based parameter tuning for vehicle application and simulation calibration.
+- **Postdoc at KTH**  
+   (Full-time), 2024– 
+  LLMs for Transportation Knowledge Graphs and Autonomous Driving
 
 - **Teaching Assistant**  
 
-  - **Head TA, Monash University (2022–2025)**  
-    - *FIT5215 Deep Learning*: led practice classes on neural networks (Python/PyTorch/TensorFlow), graded assignments and exams.  
-    - *FIT5225 Cloud Computing and Security*: designed and conducted practice classes on cloud computing, graded assignments and exams.  
-
-  - **Teaching Assistant, KTH Royal Institute of Technology (2024–2025)**  
-    - *AH2178-H22 AI for Transportation*: designed and implemented practice classes on Large Language Models and Reinforcement Learning.  
-
-  - **Teaching Assistant, Monash University (2021–2022)**  
-    - *ENG5005 Research Project*: supervised adaptive traffic signal control projects using deep reinforcement learning, mentored students on programming and writing.  
-    - *ENG5305 Transport Demand Modelling*: conducted practice classes on four-step travel demand modeling with Python.  
-    - *ENG5001 Advanced Engineering Data Analysis*: led practice classes on taxi demand prediction using large-scale New York taxi datasets in Python.
+  - **TA, KTH (2025)**  
+    - * AH2179 HT25 Applied Artificial Intelligence in Transportation*: led practice classes on neural networks (Python/PyTorch/TensorFlow), graded assignments and exams.  
     
 ---
 
 ## Research Interests
 
 - Large Language Models (LLMs)  
-- Reinforcement Learning  
-- Urban Transportation Analysis and Optimization
-- Public Transport
-
+- Autonomous Driving
+- Public Transporation
 ---
 
 ## Find Me Online
 
-- [LinkedIn](https://www.linkedin.com/in/leizhen-wang-0766a8250/)  
-- [GitHub](https://github.com/georgewanglz2019?tab=repositories)  
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=sM-HlFAAAAAJ&view_op=list_works&sortby=pubdate)  
+- [GitHub](https://github.com/lyc2121)  
+- [Google Scholar](https://scholar.google.com/citations?user=eK6riUwAAAAJ&hl=en&oi=ao)  
 
 ---
 
