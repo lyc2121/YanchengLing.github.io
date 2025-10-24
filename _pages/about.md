@@ -25,7 +25,7 @@ I am currently a **Postdoctoral Researcher** specializing in **transporation kno
   Master, Transportation Engineering (2017–2019)
 
 - **East China Jiaotong University**  
-  Bachelor, Transportation Engineering(2013-2017)
+  Bachelor, Transportation Engineering and Internet of Things Engineering(2013-2017)
   
 ---
 
