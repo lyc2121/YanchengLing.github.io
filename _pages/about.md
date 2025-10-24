@@ -74,7 +74,7 @@ I am currently a Postdoctoral Researcher specializing in urban knowledge graphs 
 
 - **Teaching Assistant**  
 
-  - * AH2179 HT25 Applied Artificial Intelligence in Transportation*(2025): led practice classes on LLMs and NLP (Python/PyTorch/TensorFlow), graded assignments and exams.  
+  - AH2179 HT25 Applied Artificial Intelligence in Transportation(2025): led practice classes on LLMs and NLP (Python/PyTorch/TensorFlow), graded assignments and exams.  
     
 ---
 
