@@ -40,7 +40,7 @@ I am currently a **Postdoctoral Researcher** specializing in **transporation kno
 [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10247099)
 
 ### LVLMPed-CoT: A Large Vision-Language Model with Chain-of-Thought Mechanism for Pedestrian Crossing Intention Prediction 
-**Y Ling**,Z Ma, ect. (2025), *Under Review*   
+**Y Ling**,Z Ma, ect. (2025), *Accept by Communications in Transportation Research*   
 
 ### A review of knowledge graph construction using large language models in transportation: problems, methods, and challenges
 **Y Ling**,Z Ma, etc. (2025), *Transportation Research Part C: Emerging Technologies*  
